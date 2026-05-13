@@ -1,4 +1,4 @@
-<h1 align="center">📘 Detailed Explanation of VGG16 and VGG19 Architectures</h1>
+<h1 align="center">VGG16 and VGG19 Architectures</h1>
 
 <p align="center">
 Deep Learning | CNN | Transfer Learning | TensorFlow | Keras
